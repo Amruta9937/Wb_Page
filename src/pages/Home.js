@@ -3,6 +3,7 @@ import Layout from "./../components/Layout/Layout";
 import { Link } from "react-router-dom";
 import Banner from "../images/banner.jpg";
 
+// initialized on remote
 const Home = () => {
   return (
     <Layout>
